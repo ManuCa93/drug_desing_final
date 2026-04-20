@@ -1,0 +1,20 @@
+name: ML4DD_05
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - joblib
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.13
+  - rdkit
+  - seaborn
+  - scikit-learn
+  - scipy
+  - tqdm
+  - pytorch
+  - gpytorch
+  - pytdc
+  - setuptools==69.5.1
