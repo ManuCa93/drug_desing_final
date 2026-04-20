@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+requirements.txt
+environment.yml
+data/
