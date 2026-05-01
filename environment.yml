@@ -6,7 +6,7 @@ dependencies:
   - joblib
   - jupyter
   - matplotlib
-  - numpy
+  - numpy<2
   - pandas
   - python=3.13
   - rdkit
